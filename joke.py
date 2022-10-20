@@ -15,7 +15,7 @@ while True:
         print("Oh ok. I dont save the joke")
 
     new_joke = input("new joke? yes \n")
-    if new_joke != "yes" :
+    if new_joke != "yes":
         no_new_joke= input("realy no new funny joke? yes \n")
         if no_new_joke == "yes":
             break
